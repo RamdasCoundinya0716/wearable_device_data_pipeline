@@ -1,4 +1,3 @@
-````markdown
 # 🏋️‍♂️ Wearable Device Lakehouse Platform (Whoop-like)
 
 This project simulates a lakehouse data platform for a fitness wearable company that tracks user profiles, heart rate (BPM), gym visits, and workout activity. The architecture follows the **Medallion (Bronze-Silver-Gold)** pattern using **Databricks Lakehouse** and **Azure Data Lake Storage Gen2**, incorporating **streaming ingestion via Kafka**, **Delta Lake**, and **CI/CD automation**.
